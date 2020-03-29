@@ -1,42 +1,37 @@
 ---
 templateKey: index-page
 title: Friendly Neighborhood Therapist
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+image: /img/eucalyptus.jpeg
+heading: Our Mission
+subheading: A Virtual Neighborhood Everyone Belongs In
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Come visit when you need support
+  description: >-
+    The Friendly Neighborhood therapist is available for you to use for free,
+    whenever you need us.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Friendly Neighborhood Therapist is a welcoming, virtual community designed to
+  meet the needs of individuals seeking education and resources for well-being.
+  These individuals are our neighbors. The goal of the friendly neighborhood is
+  to improve the mental and physical well-being of the neighbor This is a
+  neighborhood where everyone belongs; this is your safe community to seek and
+  accept support for a variety of stressors like financial hardship, cancer,
+  addiction, traumatic brain injury, or grief or learn more about mental health.
 intro:
   blurbs:
     - image: /img/ellen.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+        Ellen Curtin is a Social Worker and Clinical Psychologist living and
+        working in Chicago. When she's not saving the world by providing quality
+        mental health resources, she enjoys photography and stand-up comedy.
+    - image: /img/michael.jpg
+      text: >-
+        MIchael Antry is a software engineer in St. Louis, MO. His passions
+        include playing trombone with the St. Louis Brass Band, teaching
+        introductory data science, and finishing his master's degree much, MUCH
+        later than expected. 
+  heading: Test
+  description: Test
 main:
   heading: Great coffee with no compromises
   description: >
